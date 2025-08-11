@@ -1,4 +1,4 @@
-# Source Separation with AST and DGMO
+# Source Separation
 
 A deep learning-based audio source separation system that uses Audio Spectrogram Transformer (AST) for query-based temporal detection and Differentiable Gaussian Mixture Optimization (DGMO) for mask refinement.
 
