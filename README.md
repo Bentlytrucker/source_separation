@@ -204,10 +204,10 @@ python main.py --mix_wav mix.wav --query_wav query.wav --gt_wav gt.wav --use_spe
 Achieves high-quality separation with natural, artifact-free results through semantic understanding and advanced spectrogram feature analysis.
 
 ### Visual Output Examples
-![Comparison Plot](docs/images/speech_comparison_example.png)
+![Comparison Plot](outputs/speech_comparison.png)
 *Side-by-side comparison of input mixture, separated target, and ground truth*
 
-![Timeline Analysis](docs/images/speech_timeline_example.png) 
+![Timeline Analysis](outputs/speech_timeline.png) 
 *Segment detection timeline showing detected speech regions*
 
 ## Architecture
