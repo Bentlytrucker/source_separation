@@ -7,7 +7,7 @@ import soundfile as sf
 
 # --- 1. 설정값 (사용자 변경 필요) ---
 # '음향 지문'으로 사용할 단 하나의 순수 타겟 음원 파일
-TARGET_SAMPLE_FILE = "/data/Glass_Breaking/glass_1.wav"
+TARGET_SAMPLE_FILE = "./data/Glass_Breaking/glass_1.wav"
 # 분리할 대상인, 여러 소리가 섞인 혼합 음원 파일
 MIXTURE_FILE = "mix.wav"
 # 분리된 타겟 사운드를 저장할 파일 이름
